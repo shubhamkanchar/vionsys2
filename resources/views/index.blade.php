@@ -1,7 +1,7 @@
 @extends('app')
 @section('content')
 <!--====== Start Hero section ======-->
-<section class="hero-area-three bg-cover" style="background-image: url(assets/images/head_bg_3.jpg);">
+<section class="hero-area-three bg-cover" style="background-image: url(public/assets/images/head_bg_3.jpg);">
     <div class="custom-container">
         <div class="row align-items-center">
             <div class="col-lg-6">
@@ -17,7 +17,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="hero-img wow fadeInRight" data-wow-duration="1s">
-                    <img src="assets/images/head_3.png" alt="hero">
+                    <img src="public/assets/images/head_3.png" alt="hero">
                 </div>
             </div>
         </div>
@@ -33,8 +33,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-one wow fadeInUp" data-wow-delay="0.1s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_6.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_6.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_6.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_6.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Banking & Financial Services</h4>
@@ -45,8 +45,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-two wow fadeInUp" data-wow-delay="0.3s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_7.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_7.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_7.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_7.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Manufacturing & Industrials</h4>
@@ -57,8 +57,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-three wow fadeInUp" data-wow-delay="0.6s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_8.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_8.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_8.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_8.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Technology, Telecom & Media</h4>
@@ -69,8 +69,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-four wow fadeInUp" data-wow-delay="0.9s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_9.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_9.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_9.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Healthcare & Life Sciences</h4>
@@ -81,8 +81,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-one wow fadeInUp" data-wow-delay="0.9s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_9.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_9.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_9.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Public Sector</h4>
@@ -93,8 +93,8 @@
                         <div class="col-lg-6 col-md-6 col-sm-12">
                             <div class="service-item item-two wow fadeInUp" data-wow-delay="0.9s">
                                 <div class="service-icon">
-                                    <img class="icon-theme" src="assets/images/icon_9.png" alt="">
-                                    <img class="icon-white" src="assets/images/icon_9.1.png" alt="">
+                                    <img class="icon-theme" src="public/assets/images/icon_9.png" alt="">
+                                    <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
                                 </div>
                                 <div class="service-info">
                                     <h4>Retail & Marketplace</h4>
@@ -124,7 +124,7 @@
     </div>
 </section><!--====== End About section ======-->
 <!--====== Start Case section ======-->
-<section class="case-area-v2 case-area-v3 bg-cover" style="background-image: url(assets/images/bg/case-bg2.jpg);" id="case-filter-section">
+<section class="case-area-v2 case-area-v3 bg-cover" style="background-image: url(public/assets/images/bg/case-bg2.jpg);" id="case-filter-section">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
@@ -150,7 +150,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat1">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_8.jpg" alt="">
+                        <img src="public/assets/images/case/case_8.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -168,7 +168,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat2">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_9.jpg" alt="">
+                        <img src="public/assets/images/case/case_9.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -186,7 +186,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat3">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_10.jpg" alt="">
+                        <img src="public/assets/images/case/case_10.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -204,7 +204,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat4">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_11.jpg" alt="">
+                        <img src="public/assets/images/case/case_11.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -222,7 +222,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat5">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_12.jpg" alt="">
+                        <img src="public/assets/images/case/case_12.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -240,7 +240,7 @@
             <div class="col-lg-4 col-md-6 col-sm-12 cat3">
                 <div class="case-item mb-40">
                     <div class="case-img">
-                        <img src="assets/images/case/case_13.jpg" alt="">
+                        <img src="public/assets/images/case/case_13.jpg" alt="">
                     </div>
                     <div class="case-content">
                         <div class="case-holder">
@@ -327,7 +327,7 @@
                 <div class="col-lg-6">
                     <div class="faq-img-box">
                         <div class="faq-img">
-                            <img src="assets/images/faq/faq_3.png" alt="">
+                            <img src="public/assets/images/faq/faq_3.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -341,7 +341,7 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="video_img">
-                    <img src="assets/images/video/video_4.jpg" class="img-fluid" alt="">
+                    <img src="public/assets/images/video/video_4.jpg" class="img-fluid" alt="">
                     <div class="play-content text-center">
                         <a class="video-popup" href="https://www.youtube.com/watch?v=nfs8NYg7yQM"><i class="far fa-play"></i></a>
                     </div>
@@ -367,7 +367,7 @@
         <div class="service-slide-two">
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/data.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/data.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Data and Analytics</h4>
@@ -375,7 +375,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/data.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/data.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Data and Analytics</h4>
@@ -383,7 +383,7 @@
                     </a>
                 </div>
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/Consulting.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/Consulting.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Business Transformation and Consulting</h4>
@@ -391,7 +391,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/Consulting.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/Consulting.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Business Transformation and Consulting</h4>
@@ -401,7 +401,7 @@
             </div>
             <!-- <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_4.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_4.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Mobile App Design</h4>
@@ -409,7 +409,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_4.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_4.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Mobile App Design</h4>
@@ -417,7 +417,7 @@
                     </a>
                 </div>
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_7.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_7.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>AI Development</h4>
@@ -425,7 +425,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_7.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_7.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>AI Development</h4>
@@ -435,7 +435,7 @@
             </div> -->
             <!-- <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_5.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_5.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Website Development</h4>
@@ -443,7 +443,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_5.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_5.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Website Development</h4>
@@ -451,7 +451,7 @@
                     </a>
                 </div>
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_8.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_8.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Architecture Development</h4>
@@ -459,7 +459,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_8.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_8.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Architecture Development</h4>
@@ -469,7 +469,7 @@
             </div> -->
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/platform.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/platform.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Platform and Product Engineering</h4>
@@ -477,7 +477,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/platform.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/platform.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Platform and Product Engineering</h4>
@@ -485,7 +485,7 @@
                     </a>
                 </div>
                 <!-- <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_9.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_9.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Digital Infrastructure</h4>
@@ -493,7 +493,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_9.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_9.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Digital Infrastructure</h4>
@@ -503,7 +503,7 @@
             </div>
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/digital.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/digital.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Digital Infrastructure</h4>
@@ -511,7 +511,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/digital.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/digital.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Digital Infrastructure</h4>
@@ -519,7 +519,7 @@
                     </a>
                 </div>
                 <!-- <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(assets/images/service/service_8.jpg);">
+                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_8.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Business Transformation and Consulting</h4>
@@ -527,7 +527,7 @@
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
-                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(assets/images/service/service_8.jpg);">
+                    <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_8.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
                             <h4>Business Transformation and Consulting</h4>
@@ -552,7 +552,7 @@
         <div class="row">
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricing-item">
-                    <div class="pricing-bg" style="background-image: url(assets/images/pricing-bg-2.jpg);"></div>
+                    <div class="pricing-bg" style="background-image: url(public/assets/images/pricing-bg-2.jpg);"></div>
                     <div class="pricing-header">
                         <span class="span cl-one">New Value</span>
                         <h3 class="plan">Free & Basic Plans</h3>
@@ -575,7 +575,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricing-item">
-                    <div class="pricing-bg" style="background-image: url(assets/images/pricing-bg-2.jpg);"></div>
+                    <div class="pricing-bg" style="background-image: url(public/assets/images/pricing-bg-2.jpg);"></div>
                     <div class="pricing-header">
                         <span class="span cl-two">New Value</span>
                         <h3 class="plan">Advanced Plans</h3>
@@ -598,7 +598,7 @@
             </div>
             <div class="col-lg-4 col-md-6 col-sm-12">
                 <div class="pricing-item">
-                    <div class="pricing-bg" style="background-image: url(assets/images/pricing-bg-2.jpg);"></div>
+                    <div class="pricing-bg" style="background-image: url(public/assets/images/pricing-bg-2.jpg);"></div>
                     <div class="pricing-header">
                         <span class="span cl-three">New Value</span>
                         <h3 class="plan">Team Member Plans</h3>
@@ -630,22 +630,22 @@
             <div class="col-lg-12">
                 <div class="sponser-slide-one">
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_6.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_6.png" alt="">
                     </div>
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_7.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_7.png" alt="">
                     </div>
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_8.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_8.png" alt="">
                     </div>
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_9.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_9.png" alt="">
                     </div>
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_10.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_10.png" alt="">
                     </div>
                     <div class="single_sponser">
-                        <img src="assets/images/sponsor/sponser_7.png" alt="">
+                        <img src="public/assets/images/sponsor/sponser_7.png" alt="">
                     </div>
                 </div>
             </div>
@@ -661,7 +661,7 @@
                     <div class="row no-gutters">
                         <div class="col-lg-5">
                             <div class="cta-img">
-                                <img src="assets/images/cta/contact-mail.jpg" alt="">
+                                <img src="public/assets/images/cta/contact-mail.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-7">
@@ -680,7 +680,7 @@
                     <div class="row no-gutters">
                         <div class="col-lg-5">
                             <div class="cta-img">
-                                <img src="assets/images/cta/3873169.jpg" alt="">
+                                <img src="public/assets/images/cta/3873169.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-7">
@@ -741,7 +741,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="contact-img wow fadeInRgiht">
-                    <img src="assets/images/contact_1.png" alt="">
+                    <img src="public/assets/images/contact_1.png" alt="">
                 </div>
             </div>
         </div>

@@ -1,6 +1,6 @@
 @extends('app')
 @section('content')
-<section class="bredcumbs-area bg-cover" style="background-image: url(assets/images/bredcumb_bg.jpg);">
+<section class="bredcumbs-area bg-cover" style="background-image: url(public/assets/images/bredcumb_bg.jpg);">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
@@ -34,7 +34,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="service-item wow fadeInUp" data-wow-delay="0.2s">
                             <div class="service-icon">
-                                <img src="assets/images/icon_3.png" class="img-fluid" alt="">
+                                <img src="public/assets/images/icon_3.png" class="img-fluid" alt="">
                             </div>
                             <div class="service-info">
                                 <span class="dot"></span>
@@ -47,7 +47,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="service-item service_box_3 wow slideInUp" data-wow-delay="0.4s">
                             <div class="service-icon">
-                                <img src="assets/images/icon_4.png" class="img-fluid" alt="">
+                                <img src="public/assets/images/icon_4.png" class="img-fluid" alt="">
                             </div>
                             <div class="service-info">
                                 <span class="dot"></span>
@@ -60,7 +60,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="service-item wow slideInUp" data-wow-delay="0.6s">
                             <div class="service-icon">
-                                <img src="assets/images/icon_5.png" class="img-fluid" alt="">
+                                <img src="public/assets/images/icon_5.png" class="img-fluid" alt="">
                             </div>
                             <div class="service-info">
                                 <span class="dot"></span>
@@ -125,7 +125,7 @@
             </div>
         </section><!--====== End Counter section ======-->
         <!--====== Start Video section ======-->
-        <section class="intro-area-v4 pb-105" style="background-image: url(assets/images/video/video_bg_3.jpg);">
+        <section class="intro-area-v4 pb-105" style="background-image: url(public/assets/images/video/video_bg_3.jpg);">
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8">

@@ -1,12 +1,12 @@
 <!--====== Start Footer area ======-->
 <footer class="footer-area-v1 footer-area-v3">
-    <div class="footer-widget-area dark_blue pb-35 bg-cover" style="background-image: url(assets/images/footer_bg.jpg);">
+    <div class="footer-widget-area dark_blue pb-35 bg-cover" style="background-image: url(public/assets/images/footer_bg.jpg);">
         <div class="container">
             <div class="footer-top pt-20 pb-20">
                 <div class="row">
                     <div class="col-lg-2">
                         <div class="footer_logo">
-                            <img src="assets/images/logo_1.png" class="img-fluid" alt="">
+                            <img src="public/assets/images/logo_1.png" class="img-fluid" alt="">
                         </div>
                     </div>
                     <div class="col-lg-10">
@@ -64,7 +64,7 @@
                             <h4 class="widget-title">News Feeds</h4>
                             <div class="blog-post-item">
                                 <div class="post-thumbnail">
-                                    <img src="assets/images/blog/feed_1.jpg" class="img-fluid" alt="">
+                                    <img src="public/assets/images/blog/feed_1.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="post-entry-content">
                                     <div class="entry-content">
@@ -79,7 +79,7 @@
                             </div>
                             <div class="blog-post-item">
                                 <div class="post-thumbnail">
-                                    <img src="assets/images/blog/feed_2.jpg" class="img-fluid" alt="">
+                                    <img src="public/assets/images/blog/feed_2.jpg" class="img-fluid" alt="">
                                 </div>
                                 <div class="post-entry-content">
                                     <div class="entry-content">

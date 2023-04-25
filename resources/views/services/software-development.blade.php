@@ -1,7 +1,7 @@
 @extends('app')
 @section('content')
 <!--====== Start Bredcumbs section ======-->
-<section class="bredcumbs-area bg-cover" style="background-image: url(assets/images/bredcumb_bg.jpg);">
+<section class="bredcumbs-area bg-cover" style="background-image: url(public/assets/images/bredcumb_bg.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -51,7 +51,7 @@
             </div>
             <div class="case-item mb-60">
                 <div class="case-img">
-                    <img src="assets/images/case/case-single-1.jpg" alt="">
+                    <img src="public/assets/images/case/case-single-1.jpg" alt="">
                 </div>
                 <div class="case-content">
                     <div class="case-holder">
@@ -64,23 +64,23 @@
                 <p>ice and Data Systems are crucial to the success or failure of most businesses. Many companies provide laptops, cell phones, and Internet connections that require expensive maintenance by internal IT departments.  However, paying for full-time IT services and multiple telecom providers may be an overlooked and unnecessary expense. A no cost analysis of these computer support and telecommunication expenses can save companies money. Geeks On Call has been a nationwide leader of on-site computer support to thousands of businesses for over a decade. Recognizing a need for advice with telecom service contracts, this leader in outsourced IT services recently announced a new professional telecom audit service designed for business of all sizes to save money. Representing all of the major telecom companies Geeks On Call finds the right service and the best rates for their clients. Their new professional telecom audit service helps businesses maximize the use of their existing technology while ensuring that they are getting.</p>
                 <div class="case-post-gallery mb-45">
                     <div class="single-gallery">
-                        <a href="assets/images/case/case-41.jpg" class="img-popup">
-                            <img src="assets/images/case/case-41.jpg" alt="case">
+                        <a href="public/assets/images/case/case-41.jpg" class="img-popup">
+                            <img src="public/assets/images/case/case-41.jpg" alt="case">
                         </a>
                     </div>
                     <div class="single-gallery">
-                        <a href="assets/images/case/case-42.jpg" class="img-popup">
-                            <img src="assets/images/case/case-42.jpg" alt="case">
+                        <a href="public/assets/images/case/case-42.jpg" class="img-popup">
+                            <img src="public/assets/images/case/case-42.jpg" alt="case">
                         </a>
                     </div>
                     <div class="single-gallery">
-                        <a href="assets/images/case/case-43.jpg" class="img-popup">
-                            <img src="assets/images/case/case-43.jpg" alt="case">
+                        <a href="public/assets/images/case/case-43.jpg" class="img-popup">
+                            <img src="public/assets/images/case/case-43.jpg" alt="case">
                         </a>
                     </div>
                     <div class="single-gallery">
-                        <a href="assets/images/case/case-42.jpg" class="img-popup">
-                            <img src="assets/images/case/case-42.jpg" alt="case">
+                        <a href="public/assets/images/case/case-42.jpg" class="img-popup">
+                            <img src="public/assets/images/case/case-42.jpg" alt="case">
                         </a>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                     </div>
                 </div>
                 <div class="content-box mb-50">
-                    <img src="assets/images/case/case-single-2.jpg" alt="">
+                    <img src="public/assets/images/case/case-single-2.jpg" alt="">
                     <div class="play-content text-center">
                         <a class="video-popup" href="https://www.youtube.com/watch?v=nfs8NYg7yQM"><i class="far fa-play"></i></a>
                     </div>
@@ -141,7 +141,7 @@
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">
                         <div class="post_content text-center">
-                            <img src="assets/images/icon_2.png" class="img-fluid" alt="">
+                            <img src="public/assets/images/icon_2.png" class="img-fluid" alt="">
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12">
@@ -157,7 +157,7 @@
                 <ul class="comments-list">
                     <li class="comment">
                         <div class="comment-avatar">
-                            <img src="assets/images/blog/comment_1.jpg" alt="">
+                            <img src="public/assets/images/blog/comment_1.jpg" alt="">
                         </div>
                         <div class="comment-wrap">
                             <div class="comment-author-content">
@@ -169,7 +169,7 @@
                     </li>
                     <li class="comment">
                         <div class="comment-avatar">
-                            <img src="assets/images/blog/comment_2.jpg" alt="">
+                            <img src="public/assets/images/blog/comment_2.jpg" alt="">
                         </div>
                         <div class="comment-wrap">
                             <div class="comment-author-content">

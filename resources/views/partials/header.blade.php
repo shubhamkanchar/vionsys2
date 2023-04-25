@@ -27,7 +27,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-3">
                     <div class="brand-logo">
-                        <a href="{{ route('home') }}"><img src="assets/images/logo_3.png" class="img-fluid" alt=""></a>
+                        <a href="{{ route('home') }}"><img src="public/assets/images/logo_3.png" class="img-fluid" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-5">
