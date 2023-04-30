@@ -30,11 +30,11 @@
                             <div class="row">
                                 <div class="col-lg-12">
                                     <ul class="widget-link">
-                                        <li><a href="#">Platform and Product Engineering</a></li>
-                                        <li><a href="#">Digital Infrastructure</a></li>
-                                        <li><a href="#">Data and Analytics</a></li>
-                                        <li><a href="#">Business Transformation and Consulting</a></li>
-                                        <!-- <li><a href="#">App Development</a></li> -->
+                                        <li><a href="{{ route('web') }}">Web Development</a></li>
+                                        <li><a href="{{ route('digital') }}">Digital Marketing</a></li>
+                                        <li><a href="{{ route('data') }}">Data Warehousing</a></li>
+                                        <li><a href="{{ route('soa') }}">SOA</a></li>
+                                        <li><a href="{{ route('hadoop') }}">hadoop</a></li>
                                     </ul>
                                 </div>
                                 <!-- <div class="col-lg-6">
@@ -55,7 +55,6 @@
                                 <p><a href="mailto:info@example.com">info@example.com</a></p>
                                 <p><a href="tel:+8789676534567">+8789 676 534 56 7</a></p>
                                 <p>12/A, CDA Epic Hub, US</p>
-                                <p><a href="example.com">example.com</a></p>
                             </div>
                         </div>
                     </div>
@@ -103,7 +102,7 @@
             <div class="row">
                 <div class="col-lg-6">
                     <div class="copyright-text">
-                        <p>Copyright By @example - 2021</p>
+                        <p>Copyright By @Vionsys IT Solutions (India) Pvt. Ltd. - 2018</p>
                     </div>
                 </div>
                 <div class="col-lg-6">

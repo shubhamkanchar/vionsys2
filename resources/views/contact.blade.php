@@ -74,7 +74,7 @@
                 </div>
             </div>
             <div class="contact_map">
-                <iframe src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d945.6315891489803!2d73.94122000000002!3d18.550294!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2c399308c4df7%3A0x56a3dd07e2356fa1!2sStellar%20Spaces!5e0!3m2!1sen!2sin!4v1682884078480!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section><!--====== End Contact section ======-->
         <!--====== Start Contact-information section ======-->
@@ -131,8 +131,7 @@
                                 </div>
                                 <div class="info">
                                     <h3>Office Address</h3>
-                                    <p>12/A, Evil Dead City <br>
-                                        New York, US</p>
+                                    <p>Office 101, 01st Floor, Stellar Spaces, Kharadi South Main Road, opp. Zensar, IT Park, Kharadi, Pune, Maharashtra 411014</p>
                                 </div>
                                 <div class="button">
                                     <a href="#" class="btn_link">Get here</a>

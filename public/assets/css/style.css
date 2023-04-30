@@ -4739,3 +4739,12 @@ ul.social-link li {
 /*---=============================
     End Footer  css 
 =============================---*/
+li{
+list-style: inherit !important  ;
+padding: 5px;
+}
+ul, ol {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: disclosure-closed !important;
+}

@@ -8,7 +8,7 @@
                 <div class="hero-content">
                     <span>First & The Best IT Company</span>
                     <h1>We Provide<br>Business Plan</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                    <p>Innovative and forward-thinking IT company with cutting-edge technology, exceptional talent, and a commitment to customer satisfaction and industry leadership.</p>
                     <ul class="button">
                         <li><a href="#" class="main-btn">Read More</a></li>
                         <li><a href="https://www.youtube.com/watch?v=nfs8NYg7yQM" class="video-popup"><i class="far fa-play"></i></a></li>
@@ -37,8 +37,8 @@
                                     <img class="icon-white" src="public/assets/images/icon_6.1.png" alt="">
                                 </div>
                                 <div class="service-info">
-                                    <h4>Banking & Financial Services</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
+                                    <h4>Digital Marketing</h4>
+                                    <p>Promoting products/services online through targeted advertising, SEO, and analytics. </p>
                                 </div>
                             </div>
                         </div>
@@ -49,8 +49,8 @@
                                     <img class="icon-white" src="public/assets/images/icon_7.1.png" alt="">
                                 </div>
                                 <div class="service-info">
-                                    <h4>Manufacturing & Industrials</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
+                                    <h4>Web development</h4>
+                                    <p>Web development is creating and maintaining websites using programming languages. </p>
                                 </div>
                             </div>
                         </div>
@@ -61,8 +61,8 @@
                                     <img class="icon-white" src="public/assets/images/icon_8.1.png" alt="">
                                 </div>
                                 <div class="service-info">
-                                    <h4>Technology, Telecom & Media</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
+                                    <h4>Hadoop</h4>
+                                    <p>Open-source framework for distributed storage and processing of big data.</p>
                                 </div>
                             </div>
                         </div>
@@ -73,32 +73,8 @@
                                     <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
                                 </div>
                                 <div class="service-info">
-                                    <h4>Healthcare & Life Sciences</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                            <div class="service-item item-one wow fadeInUp" data-wow-delay="0.9s">
-                                <div class="service-icon">
-                                    <img class="icon-theme" src="public/assets/images/icon_9.png" alt="">
-                                    <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
-                                </div>
-                                <div class="service-info">
-                                    <h4>Public Sector</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                            <div class="service-item item-two wow fadeInUp" data-wow-delay="0.9s">
-                                <div class="service-icon">
-                                    <img class="icon-theme" src="public/assets/images/icon_9.png" alt="">
-                                    <img class="icon-white" src="public/assets/images/icon_9.1.png" alt="">
-                                </div>
-                                <div class="service-info">
-                                    <h4>Retail & Marketplace</h4>
-                                    <p>Voice and Data Systems are crucial to the success or failure of most. </p>
+                                    <h4>Data Warehousing</h4>
+                                    <p>Centralized, organized storage and management of large data sets.</p>
                                 </div>
                             </div>
                         </div>
@@ -124,7 +100,7 @@
     </div>
 </section><!--====== End About section ======-->
 <!--====== Start Case section ======-->
-<section class="case-area-v2 case-area-v3 bg-cover" style="background-image: url(public/assets/images/bg/case-bg2.jpg);" id="case-filter-section">
+<!-- <section class="case-area-v2 case-area-v3 bg-cover" style="background-image: url(public/assets/images/bg/case-bg2.jpg);" id="case-filter-section">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-6">
@@ -257,7 +233,8 @@
             </div>
         </div>
     </div>
-</section><!--====== End Case section ======-->
+</section>--->
+<!---====== End Case section ====== -->
 <!--====== Start FAQ section ======-->
 <section class="faq-area-v1 pb-120">
     <div class="container">
@@ -367,34 +344,34 @@
         <div class="service-slide-two">
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/data.jpg);">
+                    <a href="{{ route('data') }}" class="service-back bg-cover" style="background-image: url(public/assets/images/service/data.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Data and Analytics</h4>
-                            <p>Voice and Data Systems are crucial to the success or failure of most businesses. Many companies provide</p>
+                            <h4>Data Warehousing</h4>
+                            <p>Data warehousing involves storing and managing large volumes of structured and unstructured data to facilitate business intelligence and analytics.</p>
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
                     <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/data.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Data and Analytics</h4>
+                            <h4>Data Warehousing</h4>
                         </div>
                     </a>
                 </div>
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/Consulting.jpg);">
+                    <a href="{{ route('soa') }}" class="service-back bg-cover" style="background-image: url(public/assets/images/service/Consulting.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Business Transformation and Consulting</h4>
-                            <p>Voice and Data Systems are crucial to the success or failure of most businesses. Many companies provide</p>
+                            <h4>SOA</h4>
+                            <p>Service-Oriented Architecture (SOA) is an approach to software design that emphasizes modular, reusable, and interoperable services.</p>
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
                     <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/Consulting.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Business Transformation and Consulting</h4>
+                            <h4>SOA</h4>
                         </div>
                     </a>
                 </div>
@@ -469,52 +446,52 @@
             </div> -->
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/platform.jpg);">
+                    <a href="{{ route('hadoop') }}" class="service-back bg-cover" style="background-image: url(public/assets/images/service/platform.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Platform and Product Engineering</h4>
-                            <p>Voice and Data Systems are crucial to the success or failure of most businesses. Many companies provide</p>
+                            <h4>Hadoop</h4>
+                            <p>Hadoop is an open-source software framework for storing and processing large-scale datasets across clusters of computers using distributed computing.</p>
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
                     <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/platform.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Platform and Product Engineering</h4>
+                            <h4>Hadoop</h4>
                         </div>
                     </a>
                 </div>
-                <!-- <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_9.jpg);">
+                <div class="service-item">
+                    <a href="{{ route('web') }}" class="service-back bg-cover" style="background-image: url(public/assets/images/service/service_9.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Digital Infrastructure</h4>
-                            <p>Voice and Data Systems are crucial to the success or failure of most businesses. Many companies provide</p>
+                            <h4>Web Development</h4>
+                            <p>Web development involves designing, building, and maintaining websites using various programming languages, frameworks, and technologies for the internet.</p>
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
                     <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/service_9.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Digital Infrastructure</h4>
+                            <h4>Web Development</h4>
                         </div>
                     </a>
-                </div> -->
+                </div>
             </div>
             <div class="service-item-list">
                 <div class="service-item">
-                    <a href="it_service.html" class="service-back bg-cover" style="background-image: url(public/assets/images/service/digital.jpg);">
+                    <a href="{{ route('digital') }}" class="service-back bg-cover" style="background-image: url(public/assets/images/service/digital.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Digital Infrastructure</h4>
-                            <p>Voice and Data Systems are crucial to the success or failure of most businesses. Many companies provide</p>
+                            <h4>Digital Marketing</h4>
+                            <p>Digital marketing is the practice of promoting products or services using digital technologies, such as the internet, social media, and mobile devices.</p>
                             <span class="btn-link">Read More</span>
                         </div>
                     </a>
                     <a href="it_service.html" class="service-front bg-cover" style="background-image: url(public/assets/images/service/digital.jpg);">
                         <div class="service-info">
                             <i class="pe-7s-diamond"></i>
-                            <h4>Digital Infrastructure</h4>
+                            <h4>Digital Marketing</h4>
                         </div>
                     </a>
                 </div>

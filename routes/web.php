@@ -29,18 +29,26 @@ Route::get('/career', function () {
     return view('career');
 })->name('career');
 
-Route::get('/bussiness-transformstion-and-consulting', function () {
-    return view('services.bussiness');
-})->name('bussiness');
 
-Route::get('/platform-and-product-engineering', function () {
-    return view('services.platform');
-})->name('platform');
+// services route
 
-Route::get('/digital-infrasttucture', function () {
+
+Route::get('/Web-development', function () {
+    return view('services.web');
+})->name('web');
+
+Route::get('/digital-marketing', function () {
     return view('services.digital');
 })->name('digital');
 
-Route::get('/data-and-analytics', function () {
+Route::get('/hadoop', function () {
+    return view('services.hadoop');
+})->name('hadoop');
+
+Route::get('/soa', function () {
+    return view('services.soa');
+})->name('soa');
+
+Route::get('/data-warehousing', function () {
     return view('services.data');
 })->name('data');

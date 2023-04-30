@@ -7,11 +7,11 @@
             <div class="col-lg-12">
                 <div class="page-title-inner">
                     <div class="title">
-                        <h2>Digital Marketing</h2>
+                        <h2>SOA</h2>
                     </div>
                     <ul class="bredcumbs-link">
                         <li><a href="{{ route('home') }}">Home</a></li>
-                        <li class="active"><a href="{{ route('data') }}">Digital Marketing</a></li>
+                        <li class="active"><a href="{{ route('data') }}">SOA</a></li>
                     </ul>
                 </div>
             </div>
@@ -23,8 +23,11 @@
     <div class="container">
         <div class="case-details-wrapper">
             <div class="case-content-box">
-                <h3>Digital Marketing</h3>
-                <p>Digital Marketing refers to the marketing through which we can market our product using the digital media like social networks, email and so on. This is more flexible for executives and the most liked one by customers because the executives can market a thing using internet and a well computer knowledge person. The customers can buy a product by simply clicking using their computers or smart phones.</p>
+                <h3>SOA</h3>
+                <p>Semiconductor optical amplifiers (booster optical amplifiers) are amplifiers which use a semiconductor to provide the gain medium. They have a similar structure to Fabry–Perot laser diodes but with anti-reflection design elements at the end faces. Recent designs include anti-reflective coatings and tilted waveguide and window regions which can reduce end face reflection. Since this creates a loss of power from the cavity which is greater than the gain, it prevents the amplifier from acting as a laser.</p>
+                <p>Optical coherence tomography (OCT) is a low coherence interferometry technique that generates backscattering profiles of tissue. OCT has been very successful in ophthalmology in diagnosing eye diseases and it is widely applied in other areas such as dentistry, endoscopy and dermatology. Light sources are a crucial component in the design of OCT systems as they decide the resolution along the optical axis as well the depth penetration of infrared light in tissue.</p>
+                <p>We provide enterprise architecture and SOA consulting as well as implementation services across J2EE, .Net, content management and portals, EAI, and BPM. Our SOA consultants have brought their expertise to a number of commercial as well as state and local government clients.</p>
+                <p>As a firststep, SOA consultants at AdiWebTech Technologies do assessment of your company’s current IT infrastructure to find out its readiness for SOA after which a roadmap can be created for SOA implementation. We also work closely with your IT staff to identify the applications that will be used to form the basis of EDI and SOA.</p>
                 <div class="case-post-gallery mb-45">
                     <div class="single-gallery">
                         <a href="public/assets/images/case/case-41.jpg" class="img-popup">
@@ -48,13 +51,16 @@
                     </div>
                 </div>
                 <div class="content-box mb-60">
-                    <h3>Identifying the need for Digital Marketing Consultant</h3>
-                    <p>A quick look at reliable market stats will help you understand the importance of digital marketing in a better way. According to market reports, nearly 28% of marketers are ready to compromise on their advertising budgets thus funding digital even more. Quite naturally, it creates the demand for highly efficient and skilled digital marketers. Unlike our contemporaries, we believe in creating digital experiences for our esteemed clients; and we know that’s not possible without comprehensive ideas of their business aims. Check out the following points to understand how we work.</p>
+                    <h3>Our services include:</h3>
+                    
                     <ul class="grid-para">
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Identifying brands’ goals: Our unique, different, and innovative approaches are what we pride on. We put dedicated efforts to comprehend your needs, thus translating it into reality.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Consumer-brand interactions: At AdiWebTech Technologies, we make it a point to build engaging conversations between customers and brands. That helps our clients gain targeted leads to their websites.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Exceptional services: From web designing and SEO services to social media marketing and PPC advertising, there’s nothing that we don’t offer. With a diverse and comprehensive range of services.</li>
-                    </ul>
+									<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b> SOA Readiness Assessment:</b> we will establish a SOA roadmap by assessing the customer’s current state and readiness for SOA.</li>
+									<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> <b>SOA Business Case Analysis: </b>our architects and consultants will work closely with the business owner(s) to demonstrate the value of a SOA in their environment.</li>
+									<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b> SOA Application Analysis: </b>we will work closely with the Information Systems group to identity which of their applications should form the basis of a SOA.</li>
+                                    <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> <b>SOA Governance: </b>We will assess current governance, identify challenges, and define measurement. We will also identify areas for governance improvement within processes and organizational structure as well as measurement tools/new metrics. Comprehensive implementation roadmaps are drawn up, and a full SOA governance report is submitted.</li>
+								</ul>
+                                <p>improvement within processes and organizational structure as well as measurement tools/new metrics. Comprehensive implementation roadmaps are drawn up, and a full SOA governance report is submitted.</p>
+                                <p>AdiWebTech Technologies SOA integration solutions help you leverage existing resources and enable end-to-end integration between cloud, legacy and enterprise applications. We use open source and Oracle integration technologies to connect end-to-end business processes across your enterprise - including Oracle E-Business Suite, Integrated SOA Gateway, Oracle SOA Suite, and Oracle Application Adapters, and other options for integrating Oracle E-Business Suite with other applications.</p>
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12">
                             <div class="single-progress">
@@ -95,27 +101,23 @@
                     </div>
                 </div>
                 <div class="content-box mb-50">
-                    <h3>Benefits with AdiWebTech Technologies Digital Marketing services</h3>
-                    <p>AdiWebTech Technologies professionals are associated and effort together to service clients and exploit their chances using digital Marketing services with following benefits.</p>
+                    <h3>Service Offerings</h3>
                     <ul class="grid-para">
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Customer Reach – </b>The strength of Digital marketing services is extensive, first step to success of your industry to be a branded, greater, newer and enhanced leads and sales.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Suitability –</b> It is not necessary to stress about particulars and details of your marketing services as we got you protected, issuing you enough time and comfort to concentrate on what you specialize in maintaining your business.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Aggressive – </b>You can stretch out beyond your rivals who have not yet learned nor started any digital marketing services and campaigns for their business.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Inexpensive – </b>Your business can bridle the force of multi-channel advertising that is a great deal more inexpensive than any conventional types of publicizing.</li>
-                    </ul>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> SOA assessment and envisioning</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> SOA governance and architecture</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> B2B and legacy application integration</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> SOA implementation (SOAP/REST)</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> SOA Monitoring/Dashboard.</li>
+							</ul>
                 </div>
                 <div class="content-box mb-50">
-                    <h3>AdiWebTech Technologies helps you make your website SEO friendly by:</h3>
+                    <h3>AdiWebTech Technologies Oracle SOA cloud service implementation includes</h3>
                     <ul class="grid-para">
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Using keywords that enrich your content and enhance your visibility in relevant searches. However, we keep in mind</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>that using excessive keywords is not a healthy practice because it can get you penalized.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Making sure that flash files are used sparingly and not in excess because crawlers cannot read animation and flash files.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Making use of semantic code that enables bots to read and understand what the website is all about.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Providing unique tags and title descriptions so that the bots automatically know that the content of each page is different from the others.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Providing hassle-free navigation and easy to understand layout to enable easy movement of bots.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Creating internal as well as external linkages and also facilitating incoming links.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Building a sitemap to help crawlers easily enter and index your website.</li>
-                    </ul>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Complete Integration lifecycle management between different cloud applications leveraging REST/SOAP based web services</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Service Orchestration with the oracle BPEL Process Manager cloud service</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Mobile enablement, with REST/JSON support.</li>
+								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Integration services with other PAAS services like the Oracle Cloud Database Service, the Oracle Cloud Messaging Service, Oracle Java Cloud Service and Oracle Developer Cloud Service.</li>
+							</ul>
 
                 </div>
                 <div class="content-box mb-50">

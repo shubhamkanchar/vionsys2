@@ -41,12 +41,14 @@
                                 <li class="menu-item">
                                     <a href="{{ route('home') }}" class="active">Home</a>
                                 </li>
+                                <li class="menu-item"><a href="{{ route('about') }}">About Us</a></li>
                                 <li class="menu-item menu-item-has-children"><a href="#">Services</a>
                                     <ul class="sub-menu">
-                                        <li><a href="{{ route('platform') }}">Platform and Product Engineering</a></li>
-                                        <li><a href="{{ route('digital') }}">Digital Infrastructure</a></li>
-                                        <li><a href="{{ route('data') }}">Data and Analytics</a></li>
-                                        <li><a href="{{ route('bussiness') }}">Business Transformation and Consulting</a></li>
+                                        <li><a href="{{ route('web') }}">Web Development</a></li>
+                                        <li><a href="{{ route('digital') }}">Digital Marketing</a></li>
+                                        <li><a href="{{ route('data') }}">Data Warehousing</a></li>
+                                        <li><a href="{{ route('soa') }}">SOA</a></li>
+                                        <li><a href="{{ route('hadoop') }}">hadoop</a></li>
                                     </ul>
                                 </li>
                                 <!-- <li class="menu-item menu-item-has-children"><a href="#">Industries</a>
@@ -83,7 +85,6 @@
                                     </ul>
                                 </li> -->
                                 <!-- <li class="menu-item"><a href="{{ route('about') }}">Industries</a></li> -->
-                                <li class="menu-item"><a href="{{ route('about') }}">About Us</a></li>
                                 <li class="menu-item"><a href="{{ route('contact') }}">Contact Us</a></li>
                                 <li class="menu-item"><a href="{{ route('career') }}">Career</a></li>
                             </ul>
