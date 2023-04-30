@@ -23,8 +23,8 @@
     <div class="container">
         <div class="case-details-wrapper">
             <div class="case-content-box">
-            <h3>AdiWebTech Technologies provides turnkey Web Solutions to various kinds of businesses operating worldwide.</h3>
-                <p>Our Websites are unique and eye-catching, designed by using latest web designing tools which empowers our customers to represent themselves online confidently in the global arena to generate more revenue. Our web designers can change your ideas into reality by using their creative talent and knowledge of website standards and practices.AdiWebTech Technologies focuses on all the aspects of managing a web project involving Web Design and Development life cycle. The development cycle follows ISO Standards. Our technical goal is to provide a powerful Web-Based solution using n-tier architecture to our customers to face today’s emerging Internet scenario.</p>
+            <h3>{{ env('APP_NAME') }} Technologies provides turnkey Web Solutions to various kinds of businesses operating worldwide.</h3>
+                <p>Our Websites are unique and eye-catching, designed by using latest web designing tools which empowers our customers to represent themselves online confidently in the global arena to generate more revenue. Our web designers can change your ideas into reality by using their creative talent and knowledge of website standards and practices.{{ env('APP_NAME') }} Technologies focuses on all the aspects of managing a web project involving Web Design and Development life cycle. The development cycle follows ISO Standards. Our technical goal is to provide a powerful Web-Based solution using n-tier architecture to our customers to face today’s emerging Internet scenario.</p>
                 <div class="case-post-gallery mb-45">
                     <div class="single-gallery">
                         <a href="public/assets/images/case/case-41.jpg" class="img-popup">
@@ -49,9 +49,9 @@
                 </div>
                 <div class="content-box mb-60">
                     <h3>How do we do it? Methodology</h3>
-                    <p>AdiWebTech Technologies specializes in creating websites, which are customized and fully enriched for ultimate digital experience. We create highly user friendly static and dynamic websites without compromising the overall look and feel of the website. Our team of developers are experts in art of creating websites with the best of platforms & absolute value of your money.
+                    <p>{{ env('APP_NAME') }} Technologies specializes in creating websites, which are customized and fully enriched for ultimate digital experience. We create highly user friendly static and dynamic websites without compromising the overall look and feel of the website. Our team of developers are experts in art of creating websites with the best of platforms & absolute value of your money.
 
-                        AdiWebTech Technologies has an enthusiastic team of web developers having in-depth knowledge and experience over a decade in web development and complete digital marketing. We have fresh, creative and innovative ideation, designs and technical expertise in developing website. AdiWebTech Technologies also ensures high degree of confidentiality for its clients and maintain in order to safeguard their interests.</p>
+                        {{ env('APP_NAME') }} Technologies has an enthusiastic team of web developers having in-depth knowledge and experience over a decade in web development and complete digital marketing. We have fresh, creative and innovative ideation, designs and technical expertise in developing website. {{ env('APP_NAME') }} Technologies also ensures high degree of confidentiality for its clients and maintain in order to safeguard their interests.</p>
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12">
                             <div class="single-progress">
@@ -111,7 +111,7 @@
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Can work as a system to allow staff or users to collaborate</li>
                     </ul>
                     <p>
-                        AdiWebTech Technologies has set itself to take care of your ideas and shape them into reality with our expertise and innovative methodologies. We are a rapidly growing brand in web design and development solutions in the market, offering optimum web design services along with web development services. Our expertise in this field is time tested. With its exceptional services catered to various domains, providing quality web solutions.
+                        {{ env('APP_NAME') }} Technologies has set itself to take care of your ideas and shape them into reality with our expertise and innovative methodologies. We are a rapidly growing brand in web design and development solutions in the market, offering optimum web design services along with web development services. Our expertise in this field is time tested. With its exceptional services catered to various domains, providing quality web solutions.
                     </p>
                 </div>
             </div>

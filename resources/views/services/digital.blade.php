@@ -52,7 +52,7 @@
                     <p>A quick look at reliable market stats will help you understand the importance of digital marketing in a better way. According to market reports, nearly 28% of marketers are ready to compromise on their advertising budgets thus funding digital even more. Quite naturally, it creates the demand for highly efficient and skilled digital marketers. Unlike our contemporaries, we believe in creating digital experiences for our esteemed clients; and we know that’s not possible without comprehensive ideas of their business aims. Check out the following points to understand how we work.</p>
                     <ul class="grid-para">
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Identifying brands’ goals: Our unique, different, and innovative approaches are what we pride on. We put dedicated efforts to comprehend your needs, thus translating it into reality.</li>
-                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Consumer-brand interactions: At AdiWebTech Technologies, we make it a point to build engaging conversations between customers and brands. That helps our clients gain targeted leads to their websites.</li>
+                        <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Consumer-brand interactions: At {{ env('APP_NAME') }} Technologies, we make it a point to build engaging conversations between customers and brands. That helps our clients gain targeted leads to their websites.</li>
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Exceptional services: From web designing and SEO services to social media marketing and PPC advertising, there’s nothing that we don’t offer. With a diverse and comprehensive range of services.</li>
                     </ul>
                     <div class="row">
@@ -95,8 +95,8 @@
                     </div>
                 </div>
                 <div class="content-box mb-50">
-                    <h3>Benefits with AdiWebTech Technologies Digital Marketing services</h3>
-                    <p>AdiWebTech Technologies professionals are associated and effort together to service clients and exploit their chances using digital Marketing services with following benefits.</p>
+                    <h3>Benefits with {{ env('APP_NAME') }} Technologies Digital Marketing services</h3>
+                    <p>{{ env('APP_NAME') }} Technologies professionals are associated and effort together to service clients and exploit their chances using digital Marketing services with following benefits.</p>
                     <ul class="grid-para">
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Customer Reach – </b>The strength of Digital marketing services is extensive, first step to success of your industry to be a branded, greater, newer and enhanced leads and sales.</li>
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i><b>Suitability –</b> It is not necessary to stress about particulars and details of your marketing services as we got you protected, issuing you enough time and comfort to concentrate on what you specialize in maintaining your business.</li>
@@ -105,7 +105,7 @@
                     </ul>
                 </div>
                 <div class="content-box mb-50">
-                    <h3>AdiWebTech Technologies helps you make your website SEO friendly by:</h3>
+                    <h3>{{ env('APP_NAME') }} Technologies helps you make your website SEO friendly by:</h3>
                     <ul class="grid-para">
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>Using keywords that enrich your content and enhance your visibility in relevant searches. However, we keep in mind</li>
                         <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i>that using excessive keywords is not a healthy practice because it can get you penalized.</li>

@@ -27,7 +27,7 @@
                 <p>Semiconductor optical amplifiers (booster optical amplifiers) are amplifiers which use a semiconductor to provide the gain medium. They have a similar structure to Fabry–Perot laser diodes but with anti-reflection design elements at the end faces. Recent designs include anti-reflective coatings and tilted waveguide and window regions which can reduce end face reflection. Since this creates a loss of power from the cavity which is greater than the gain, it prevents the amplifier from acting as a laser.</p>
                 <p>Optical coherence tomography (OCT) is a low coherence interferometry technique that generates backscattering profiles of tissue. OCT has been very successful in ophthalmology in diagnosing eye diseases and it is widely applied in other areas such as dentistry, endoscopy and dermatology. Light sources are a crucial component in the design of OCT systems as they decide the resolution along the optical axis as well the depth penetration of infrared light in tissue.</p>
                 <p>We provide enterprise architecture and SOA consulting as well as implementation services across J2EE, .Net, content management and portals, EAI, and BPM. Our SOA consultants have brought their expertise to a number of commercial as well as state and local government clients.</p>
-                <p>As a firststep, SOA consultants at AdiWebTech Technologies do assessment of your company’s current IT infrastructure to find out its readiness for SOA after which a roadmap can be created for SOA implementation. We also work closely with your IT staff to identify the applications that will be used to form the basis of EDI and SOA.</p>
+                <p>As a firststep, SOA consultants at {{ env('APP_NAME') }} Technologies do assessment of your company’s current IT infrastructure to find out its readiness for SOA after which a roadmap can be created for SOA implementation. We also work closely with your IT staff to identify the applications that will be used to form the basis of EDI and SOA.</p>
                 <div class="case-post-gallery mb-45">
                     <div class="single-gallery">
                         <a href="public/assets/images/case/case-41.jpg" class="img-popup">
@@ -60,7 +60,7 @@
                                     <li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> <b>SOA Governance: </b>We will assess current governance, identify challenges, and define measurement. We will also identify areas for governance improvement within processes and organizational structure as well as measurement tools/new metrics. Comprehensive implementation roadmaps are drawn up, and a full SOA governance report is submitted.</li>
 								</ul>
                                 <p>improvement within processes and organizational structure as well as measurement tools/new metrics. Comprehensive implementation roadmaps are drawn up, and a full SOA governance report is submitted.</p>
-                                <p>AdiWebTech Technologies SOA integration solutions help you leverage existing resources and enable end-to-end integration between cloud, legacy and enterprise applications. We use open source and Oracle integration technologies to connect end-to-end business processes across your enterprise - including Oracle E-Business Suite, Integrated SOA Gateway, Oracle SOA Suite, and Oracle Application Adapters, and other options for integrating Oracle E-Business Suite with other applications.</p>
+                                <p>{{ env('APP_NAME') }} Technologies SOA integration solutions help you leverage existing resources and enable end-to-end integration between cloud, legacy and enterprise applications. We use open source and Oracle integration technologies to connect end-to-end business processes across your enterprise - including Oracle E-Business Suite, Integrated SOA Gateway, Oracle SOA Suite, and Oracle Application Adapters, and other options for integrating Oracle E-Business Suite with other applications.</p>
                     <div class="row">
                         <div class="col-lg-4 col-md-4 col-sm-12">
                             <div class="single-progress">
@@ -111,7 +111,7 @@
 							</ul>
                 </div>
                 <div class="content-box mb-50">
-                    <h3>AdiWebTech Technologies Oracle SOA cloud service implementation includes</h3>
+                    <h3>{{ env('APP_NAME') }} Technologies Oracle SOA cloud service implementation includes</h3>
                     <ul class="grid-para">
 								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Complete Integration lifecycle management between different cloud applications leveraging REST/SOAP based web services</li>
 								<li><i class="glyphicon glyphicon-chevron-right" aria-hidden="true"></i> Service Orchestration with the oracle BPEL Process Manager cloud service</li>
