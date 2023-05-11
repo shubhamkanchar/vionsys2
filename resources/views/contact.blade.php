@@ -97,8 +97,8 @@
                                 </div>
                                 <div class="info">
                                     <h3>Phone Number</h3>
-                                    <p><a href="tel:+88978767659">+88 97 876 765 9</a></p>
-                                    <p><a href="tel:+88978767659">(879) 876 567 867 56</a></p>
+                                    <p><a href="tel:+91 83809 52885">+91 83809 52885</a></p>
+                                    <!-- <p><a href="tel:+88978767659">(879) 876 567 867 56</a></p> -->
                                 </div>
                                 <div class="button">
                                     <a href="#" class="btn_link">Call Us Now</a>
@@ -114,8 +114,8 @@
                                 </div>
                                 <div class="info">
                                     <h3>Email Address</h3>
-                                    <p><a href="mailto:info@webmail.com">info@webmail.com</a></p>
-                                    <p><a href="mailto:example@web.com">example@web.com</a></p>
+                                    <p><a href="mailto:hr@vionsys.com">hr@vionsys.com</a></p>
+                                    <p><a href="mailto:support@vionsys.com">support@vionsys.com</a></p>
                                 </div>
                                 <div class="button">
                                     <a href="#" class="btn_link">Mail Us Now</a>
