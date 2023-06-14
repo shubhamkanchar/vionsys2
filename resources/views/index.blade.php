@@ -599,6 +599,61 @@
         </div>
     </div>
 </section> -->
+<section class="team-area-v1 blue_bg pt-110 pb-100">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-10">
+                        <div class="section-title section-title-white text-center mb-65">
+                            <span class="span">angels</span>
+                            <h2>Let’s Meet With <br>Our Team Members</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="team-item mb-60 card text-dark">
+                            <div class="team-img">
+                                <img src="assets/images/team//team_1.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h2 class="mt-2">Mr. Govind Rathod</h2>
+                                <h6 class="mt-2"><i class="fa fa-id-card" aria-hidden="true"></i> Reporting Manager/Project Manager Details</h6>
+                                <h6 class="mt-2"><i class="fa fa-envelope" aria-hidden="true"></i> govindrathod@vionsys.com</h6>
+                                <h6 class="mt-2"><i class="fa fa-phone" aria-hidden="true"></i> +91 9518727810</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="team-item mb-60 card text-dark">
+                            <div class="team-img">
+                                <img src="assets/images/team/team_2.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h2 class="mt-2">Mr. Suraj R</h2>
+                                <h6 class="mt-2"><i class="fa fa-id-card" aria-hidden="true"></i> HR Manager</h6>
+                                <h6 class="mt-2"><i class="fa fa-envelope" aria-hidden="true"></i> hr@vionsys.com</h6>
+                                <h6 class="mt-2"><i class="fa fa-phone" aria-hidden="true"></i> +91 8766613742</h6>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="team-item mb-60">
+                            <div class="team-img">
+                                <img src="assets/images/team/team_3.jpg" class="img-fluid" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="title"><a href="#">Rosalina D. Pelin</a></h3>
+                                <p class="position">Developer</p>
+                            </div>
+                        </div>
+                    </div> -->
+                </div>
+                <!-- <div class="button text-center mt-20">
+                    <a href="#" class="main-btn active-btn">Join With Us</a>
+                    <a href="#" class="main-btn">Learn more</a>
+                </div> -->
+            </div>
+        </section>
 <!--====== End Pricing section ======-->
 <!--====== Start Sponsor section ======-->
 <section class="sponsor-area-v1 sponsor-area-v2 dark_bg">

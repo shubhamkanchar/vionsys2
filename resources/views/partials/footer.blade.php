@@ -29,73 +29,35 @@
                             <h4 class="widget-title">Services</h4>
                             <div class="row">
                                 <div class="col-lg-12">
-                                    <ul class="widget-link">
-                                        <li><a href="{{ route('web') }}">Web Development</a></li>
-                                        <li><a href="{{ route('digital') }}">Digital Marketing</a></li>
-                                        <li><a href="{{ route('data') }}">Data Warehousing</a></li>
-                                        <li><a href="{{ route('soa') }}">SOA</a></li>
-                                        <li><a href="{{ route('hadoop') }}">hadoop</a></li>
+                                    <ul class="widget-link text-white">
+                                        <li><a class="text-white" href="{{ route('web') }}">Web Development</a></li>
+                                        <li><a class="text-white" href="{{ route('digital') }}">Digital Marketing</a></li>
+                                        <li><a class="text-white" href="{{ route('data') }}">Data Warehousing</a></li>
+                                        <li><a class="text-white" href="{{ route('soa') }}">SOA</a></li>
+                                        <li><a class="text-white" href="{{ route('hadoop') }}">hadoop</a></li>
                                     </ul>
                                 </div>
-                                <!-- <div class="col-lg-6">
-                                            <ul class="widget-link">
-                                                <li><a href="#">Video Editing</a></li>
-                                                <li><a href="#">Software Development</a></li>
-                                                <li><a href="#">Game Design</a></li>
-                                                <li><a href="#">Business Planning</a></li>
-                                            </ul>
-                                        </div>   -->
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="widget contact-widget mb-40">
                             <h4 class="widget-title">Contact</h4>
-                            <div class="contact-info">
-                                <p><a href="mailto:support@vionsys.com">support@vionsys.com</a></p>
-                                <p><a href="tel:+91 83809 52885">+91 83809 52885</a></p>
-                                <p>Office 101, 01st Floor,<br/> 
+                            <div class=" text-white">
+                                <p class="text-white"><i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:support@vionsys.com">support@vionsys.com</a></p>
+                                <p class="text-white mt-3"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+91 83809 52885">+91 83809 52885</a></p>     
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12">
+                        <div class="widget recent-post-widget mb-40">
+                            <h4 class="widget-title">Address</h4>
+                            <p class="text-white">Office 101, 01st Floor,<br/> 
                                     Stellar Spaces, <br/> 
                                     Kharadi South Main Road, <br/> 
                                     opp. Zensar, IT Park, <br/> 
                                     Kharadi, Pune, <br/> 
                                     Maharashtra 411014</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-5 col-md-6 col-sm-12">
-                        <div class="widget recent-post-widget mb-40">
-                            <h4 class="widget-title">News Feeds</h4>
-                            <div class="blog-post-item">
-                                <div class="post-thumbnail">
-                                    <img src="public/assets/images/blog/feed_1.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="post-entry-content">
-                                    <div class="entry-content">
-                                        <h3><a href="blog_details.html">Voice and Data Systems are crucial to the success or failure.</a></h3>
-                                    </div>
-                                    <div class="post-meta">
-                                        <ul>
-                                            <li><span><i class="fal fa-user"></i>By <a href="#">Admin</a></span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="blog-post-item">
-                                <div class="post-thumbnail">
-                                    <img src="public/assets/images/blog/feed_2.jpg" class="img-fluid" alt="">
-                                </div>
-                                <div class="post-entry-content">
-                                    <div class="entry-content">
-                                        <h3><a href="blog_details.html">Many companies provide laptops, cell phones, and Internet</a></h3>
-                                    </div>
-                                    <div class="post-meta">
-                                        <ul>
-                                            <li><span><i class="fal fa-user"></i>By <a href="#">Admin</a></span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
