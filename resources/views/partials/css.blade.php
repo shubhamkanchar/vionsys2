@@ -4,7 +4,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!--====== Page title ======-->
-        <title>Onova - IT Solutions and Services Company HTML Template</title>
+        <title>Vionsys IT Solutions Pvt.Ltd.</title>
         <!--====== All Css here ======-->
         <!--====== Bootstrap  css ======-->
         <link rel="stylesheet" href="{{ asset('public/assets/css/bootstrap.min.css' ) }}">
